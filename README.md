@@ -1,3 +1,3 @@
 # HTML-Website
 
-My website
+Click the link to check my website - https://merlinsindhuja.github.io/HTML-Website/
